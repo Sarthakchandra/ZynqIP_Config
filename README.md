@@ -1,0 +1,2 @@
+# ZynqIP_Config
+In this part, we will learn how to use IP Integrator to create a processing system-based design consisting of ARM cortex A9 cores. An abstract view of the Zynq architecture is given below. We will need the DDR3 controller for external DDR3 memory. As we are accessing the Zybo board remotely, we will be using the JTAG terminal instead of UART for the STDIN and STDO. Refer to Lab9.pdf for Step-by-Step Guide
